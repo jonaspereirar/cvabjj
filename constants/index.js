@@ -2,27 +2,27 @@ export const exploreWorlds = [
   {
     id: 'world-1',
     imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    title: 'Master 19h20m',
   },
   {
     id: 'world-2',
     imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    title: 'Juvenil 19h20m',
   },
   {
     id: 'world-3',
     imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    title: 'Ifantil 18h10m',
   },
   {
     id: 'world-4',
     imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
+    title: 'Ifanto Juvenil 18h50',
   },
   {
     id: 'world-5',
     imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
+    title: 'Adulto 19h20m',
   },
 ];
 
@@ -35,36 +35,36 @@ export const startingFeatures = [
 export const newFeatures = [
   {
     imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    title: 'Campeonatos Internacionais',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        'Participamos de campeonatos em diversos países',
   },
   {
     imgUrl: '/headset.svg',
-    title: 'More realistic',
+    title: 'Campeonatos Nacionais',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+        'Participamos de seminários e capeonatos nacionais',
   },
 ];
 
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    title: 'Respeito, Disciplina e Humildade',
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+        'É importante tratar seus colegas de treino e seus instrutores com respeito, seguir as regras da academia e manter uma atitude positiva durante os treinos.',
   },
   {
     imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    title: 'Consistência e dedicação no aprendizado',
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+        'A prática regular do jiu-jitsu é fundamental para o seu sucesso. É importante ser consistente e dedicado, participando de treinos regulares e praticando em casa para melhorar suas habilidades.',
   },
   {
     imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    title: 'Desenvolvimento pessoal e saúde',
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+        'Além de ser uma arte marcial divertida e desafiadora, o jiu-jitsu também oferece muitos benefícios para a saúde física e mental. Ao praticar, você pode melhorar sua condição física, aumentar sua autoestima e aprender mais sobre si mesmo e seus limites cognitivos. É uma ótima maneira de cuidar da sua saúde e desenvolver a sua personalidade de forma positiva.',
   },
 ];
 

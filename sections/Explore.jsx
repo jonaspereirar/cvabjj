@@ -22,7 +22,7 @@ const Explore = () => {
       >
         <TypingText title="| Class" textStyles="text-center" />
         <TitleText
-          title={<>Apresentamos<br className="md:block hidden" /> nossas modalidades</>}
+          title={<>Apresentamos<br className="md:block hidden" /> nossos horários</>}
           textStyles="text-center"
         />
         <div className="mt-[50px] flex lg:flex-row flex-col min-h-[70vh] gap-5">

@@ -19,8 +19,7 @@ const World = () => (
       <TypingText title="| People on the World" textStyles="text-center" />
       <TitleText
         title={(
-          <>Track friends around you and invite them to play together in the same
-            world
+          <>O jiu-jitsu é uma arte marcial que une pessoas de todas as nacionalidades, gêneros e religiões em torno de um objetivo comum: respirar saúde e bem-estar. 
           </>
         )}
         textStyles="text-center"
