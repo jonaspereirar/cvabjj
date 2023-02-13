@@ -25,7 +25,7 @@ const About = () => (
         A equipe <span className="font-extrabold text-white">CVABJJ </span> 
         Castro Verde Association Brazilian Jiu-Jitsu Team, é formada por atletas
         apaixonados e dedicados. A equipe é liderada por instrutores 
-        altamente qualificados, com ampla experiência na modalidade, com certificaçao
+        altamente qualificados, com ampla experiência na modalidade, com certificação
         reconhecida pelas principais entidades portuguesas como o IPDJ e a FPJJB "Federação Portuguesa de jiu-jitsu Brasileiro".
         
         Além de competir em campeonatos nacionais e internacionais, 
