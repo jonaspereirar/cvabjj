@@ -22,31 +22,21 @@ const About = () => (
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        <span className="font-extrabold text-white">CVABJJ</span> 
-        A equipe de Jiu-Jitsu Brasileiro em Castro Verde, Portugal, 
-        é formada por atletas apaixonados e dedicados à arte marcial. 
-        Com treinamentos intensos e rigorosos, eles buscam aperfeiçoar 
-        suas habilidades e alcançar o máximo de suas potencialidades. 
-        A equipe é liderada por instrutores altamente qualificados, 
-        com ampla experiência na modalidade e um profundo conhecimento técnico.
+        A equipe <span className="font-extrabold text-white">CVABJJ </span> 
+        Castro Verde Association Brazilian Jiu-Jitsu Team, é formada por atletas
+        apaixonados e dedicados. A equipe é liderada por instrutores 
+        altamente qualificados, com ampla experiência na modalidade, com certificação
+        reconhecida pelas principais entidades portuguesas como o IPDJ e a FPJJB "Federação Portuguesa de jiu-jitsu Brasileiro".
         
-        Além de competir em campeonatos locais e nacionais, 
+        Além de competir em campeonatos nacionais e internacionais, 
         a equipe também se dedica a difundir a cultura do Jiu-Jitsu e a promover 
-        a inclusão social, oferecendo aulas para crianças e jovens em situação 
-        de vulnerabilidade. Eles acreditam que a arte marcial não apenas 
-        desenvolve habilidades físicas, mas também ajuda a construir caráter 
-        e a promover a disciplina e o respeito.
-        Com sua dedicação e paixão, a equipe {' '}
-        <span className="font-extrabold text-white">
-          CVABJJ
-        </span>{' '}
-         tem se tornado um destaque na região, inspirando muitos
-         outros a seguir seus passos e a se envolver com a modalidade. 
-         Eles são verdadeiros campeões dentro e fora da academia, 
-         levando a bandeira do Jiu-Jitsu a novos patamares.{' '}
+        a inclusão social, oferecendo aulas para crianças e jovens. 
+        Acreditamos que a arte marcial não apenas desenvolve habilidades físicas, 
+        mas também ajuda a construir caráter e a promover a disciplina e o respeito.
+         {' '}
         <span className="font-extrabold text-white">Castro Verde Association 
-        Brazilian Jiu-Jitsu team</span> And for all ages, genders and nationalities. Let's{' '}
-        <span className="font-extrabold text-white">explore</span> Let's explore, more by scrolling down
+        Brazilian Jiu-Jitsu team</span> {' '}
+        <span className="font-extrabold text-white"></span>
       </motion.p>
 
       <motion.img

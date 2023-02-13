@@ -21,17 +21,17 @@ const Feedback = () => (
         <div className="feedback-gradient" />
         <div>
           <h4 className="font-bold sm:text-[32px] text-[26px] sm:leading-[40.32px] leading-[36.32px] text-white">
-            Samantha
+            Joana
           </h4>
           <p className="mt-[8px] font-normal sm:text-[18px] text-[12px] sm:leading-[22.68px] leading-[16.68px] text-white">
-            Founder Metaverus
+            Atleta
           </p>
         </div>
 
         <p className="mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[45.6px] leading-[39.6px] text-white">
-          “With the development of today's technology, metaverse is very
-          useful for today's work, or can be called web 3.0. by using
-          metaverse you can use it as anything”
+          “Com a equipe CVABJJ voce pratica um desporto divertido, onde voce apredera
+          a controlar seu proprio jogo, e melhorar cada vez mais, a cada dia seus limites, 
+          e conhecer a si proprio”
         </p>
       </motion.div>
 
@@ -50,8 +50,8 @@ const Feedback = () => (
           className="lg:block hidden absolute -left-[10%] top-[3%]"
         >
           <img
-            src="/stamp.png"
-            alt="stamp"
+            src="/people-02.png"
+            alt="people"
             className="w-[155px] h-[155px] object-contain"
           />
         </motion.div>
